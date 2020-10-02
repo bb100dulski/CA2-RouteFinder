@@ -1,0 +1,173 @@
+<object-stream>
+  <Classes.Graph>
+    <adjVertices>
+      <entry>
+        <Classes.Graph_-Vertex>
+          <label>Baths of Caracalla</label>
+          <outer-class reference="../../../.."/>
+        </Classes.Graph_-Vertex>
+        <list>
+          <Classes.Graph_-Vertex>
+            <label>Colosseum</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+        </list>
+      </entry>
+      <entry>
+        <Classes.Graph_-Vertex>
+          <label>Roman Forum</label>
+          <outer-class reference="../../../.."/>
+        </Classes.Graph_-Vertex>
+        <list>
+          <Classes.Graph_-Vertex>
+            <label>Colosseum</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+          <Classes.Graph_-Vertex>
+            <label>Ponte Sisto</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+          <Classes.Graph_-Vertex>
+            <label>Roma Termini</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+          <Classes.Graph_-Vertex>
+            <label>Ponte Sisto</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+          <Classes.Graph_-Vertex>
+            <label>Colosseum</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+        </list>
+      </entry>
+      <entry>
+        <Classes.Graph_-Vertex>
+          <label>Terrazza del Pincio</label>
+          <outer-class reference="../../../.."/>
+        </Classes.Graph_-Vertex>
+        <list>
+          <Classes.Graph_-Vertex>
+            <label>Sistine Chapel</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+          <Classes.Graph_-Vertex>
+            <label>Pantheon</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+        </list>
+      </entry>
+      <entry>
+        <Classes.Graph_-Vertex>
+          <label>Bioparco di Roma</label>
+          <outer-class reference="../../../.."/>
+        </Classes.Graph_-Vertex>
+        <list/>
+      </entry>
+      <entry>
+        <Classes.Graph_-Vertex>
+          <label>Colosseum</label>
+          <outer-class reference="../../../.."/>
+        </Classes.Graph_-Vertex>
+        <list>
+          <Classes.Graph_-Vertex>
+            <label>Roman Forum</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+          <Classes.Graph_-Vertex>
+            <label>Baths of Caracalla</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+          <Classes.Graph_-Vertex>
+            <label>Roman Forum</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+        </list>
+      </entry>
+      <entry>
+        <Classes.Graph_-Vertex>
+          <label>Ponte Sisto</label>
+          <outer-class reference="../../../.."/>
+        </Classes.Graph_-Vertex>
+        <list>
+          <Classes.Graph_-Vertex>
+            <label>Roman Forum</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+          <Classes.Graph_-Vertex>
+            <label>Roman Forum</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+          <Classes.Graph_-Vertex>
+            <label>Pantheon</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+        </list>
+      </entry>
+      <entry>
+        <Classes.Graph_-Vertex>
+          <label>Roma Termini</label>
+          <outer-class reference="../../../.."/>
+        </Classes.Graph_-Vertex>
+        <list>
+          <Classes.Graph_-Vertex>
+            <label>Roman Forum</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+        </list>
+      </entry>
+      <entry>
+        <Classes.Graph_-Vertex>
+          <label>Pantheon</label>
+          <outer-class reference="../../../.."/>
+        </Classes.Graph_-Vertex>
+        <list>
+          <Classes.Graph_-Vertex>
+            <label>St.Peter&apos;s Basilica</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+          <Classes.Graph_-Vertex>
+            <label>Ponte Sisto</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+          <Classes.Graph_-Vertex>
+            <label>Terrazza del Pincio</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+        </list>
+      </entry>
+      <entry>
+        <Classes.Graph_-Vertex>
+          <label>St.Peter&apos;s Basilica</label>
+          <outer-class reference="../../../.."/>
+        </Classes.Graph_-Vertex>
+        <list>
+          <Classes.Graph_-Vertex>
+            <label>Sistine Chapel</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+          <Classes.Graph_-Vertex>
+            <label>Pantheon</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+        </list>
+      </entry>
+      <entry>
+        <Classes.Graph_-Vertex>
+          <label>Sistine Chapel</label>
+          <outer-class reference="../../../.."/>
+        </Classes.Graph_-Vertex>
+        <list>
+          <Classes.Graph_-Vertex>
+            <label>St.Peter&apos;s Basilica</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+          <Classes.Graph_-Vertex>
+            <label>Terrazza del Pincio</label>
+            <outer-class reference="../../../../.."/>
+          </Classes.Graph_-Vertex>
+        </list>
+      </entry>
+    </adjVertices>
+  </Classes.Graph>
+</object-stream>
